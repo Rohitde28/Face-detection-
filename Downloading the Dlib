@@ -1,0 +1,12 @@
+This project is mainly build to run on Python 3 and also  i am listing some of the commands and libraries needed for the same 
+1.   Dlib 
+2. Open Cv
+3. Scikit-learn 
+4. Tensor flow 
+5. CV2 
+6. Numpy 
+7. Pandas 
+Also it is advices to install the windows for Linux version  and Unix  Debian OS. It can run this project more smoothly and also there 
+may be variations in the running of the project as due to the compataility of webcam .py with your device's kernals. 
+If you have any doubt and suggestion I am open to it Liiking for further more improvements from your side.
+Mail me at Rohitash.11701507@lpu.in
