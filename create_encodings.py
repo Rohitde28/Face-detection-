@@ -57,7 +57,7 @@ def create_dataset(training_dir_path, labels):
     return X
 
 encoding_file_path = './encoded-images-data.csv'
-training_dir_path = './training-images'
+training_dir_path = './training-image'
 labels_fName = "labels_file.pkl"
 
 # Get the folder names in training-dir as labels
